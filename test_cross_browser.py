@@ -8,8 +8,8 @@ from selenium.webdriver.safari.service import Service as SafariService
 from selenium.webdriver.safari.options import Options as SafariOptions
 
 # BrowserStack credentials
-browserstack_user = 'saikatchowdhury_EQobvF'
-browserstack_key = 'cVdxJzcgLRkUn7xTdzFR'
+browserstack_user = 'XXXXXX'
+browserstack_key = 'XXXXXX'
 
 # BrowserStack capabilities (using options instead of desired_capabilities)
 browsers = [
